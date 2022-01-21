@@ -1,6 +1,8 @@
 A simple list used to control daily tasks.
 
 references:
+https://angular.io/docs
+<br>
 https://getbootstrap.com/
 <br>
 https://stackoverflow.com/
